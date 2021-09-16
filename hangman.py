@@ -89,4 +89,6 @@ def hangman():
 name=input("Enter the name")
 print("Welcome" ,name)
 print("------------")
-print("Try to guess the word in less than 10 tries")
+print("Try to guess the word in less than 10 tries...All the best!!!")
+hangman()
+print()
